@@ -21,14 +21,8 @@ Set up these tools and platforms before diving into the projects and topics:
 
 ## 3. 📦 Install Key Python Libraries (if not already installed via Anaconda)
 Open a terminal or Anaconda Prompt and run:
-pip install pandas matplotlib seaborn
+`pip install pandas matplotlib seaborn`
 
-
-
-## 4. 🧬 Sample Dataset Access
-- Use .csv datasets for practice. Some recommended sources:
-- Kaggle Datasets
-- UCI Machine Learning Repository
 
 ## 5. 🧰 Optional: Set Up Visual Studio Code (VS Code)
 For those who prefer a code editor:
