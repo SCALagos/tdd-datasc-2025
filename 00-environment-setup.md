@@ -1,4 +1,5 @@
-# 🛠️ Ideal Environment Setup for Data Science Training
+
+# 🛠️ Environment Setup for Data Science Training
 
 Set up these tools and platforms before diving into the projects and topics:
 
@@ -15,26 +16,7 @@ Set up these tools and platforms before diving into the projects and topics:
 - Open Anaconda Navigator or use terminal/command prompt:
   ```bash
   jupyter notebook
-
-  Based on your data science curriculum tables, here's what I’d consider an ideal environment setup guide tailored to your needs. This ensures smooth progress through each week's tools and tasks:
-# 🛠️ Ideal Environment Setup for Data Science Training
-
-Set up these tools and platforms before diving into the projects and topics:
-
----
-
-## 1. 💻 Install Python and Anaconda
-- Download Anaconda (includes Python + Jupyter) from: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
-- During installation, allow the installer to set environment variables.
-- Launch **Jupyter Notebook** to verify the setup.
-
----
-
-## 2. 🧮 Get Familiar with Jupyter Notebook
-- Open Anaconda Navigator or use terminal/command prompt:
-  ```bash
-  jupyter notebook
-```
+  ```
 - Create a new notebook and try simple Python expressions to test.
 
 ## 3. 📦 Install Key Python Libraries (if not already installed via Anaconda)
