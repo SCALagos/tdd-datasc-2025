@@ -24,20 +24,11 @@ Open a terminal or Anaconda Prompt and run:
 `pip install pandas matplotlib seaborn`
 
 
-## 5. 🧰 Optional: Set Up Visual Studio Code (VS Code)
+## 4. 🧰 Optional: Set Up Visual Studio Code (VS Code)
 For those who prefer a code editor:
 - Download VS Code: https://code.visualstudio.com
 - Install Python extension.
 - Run .ipynb files directly in the editor.
-
-## 6. ✅ Confirm Your Environment is Ready
-Run this in a Jupyter Notebook:
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-print("Libraries installed successfully!")
-
 
 
 ## 🔐 Optional: Version Control with Git (For Capstone)
